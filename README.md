@@ -9,4 +9,4 @@
 
 In this small project I scrape the partner universities of the University of Cologne's Faculty of Management, Economics and Social Sciences as of August 2018. I also perform a short exploratory data analysis and create some visualizations.
 
-See the current list of partner universities here: https://www.international.wiso.uni-koeln.de/de/international-profile/partner-universities/
+See the current list of partner universities [here](https://www.international.wiso.uni-koeln.de/de/international-profile/partner-universities/).
